@@ -1,0 +1,2 @@
+# ScalaDemoProjectSingleInheritance
+ScalaDemoProjectSingleInheritance
